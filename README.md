@@ -1,0 +1,2 @@
+# AutoKingdom
+First idle game
